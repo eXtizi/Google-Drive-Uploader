@@ -8,7 +8,7 @@ class Creds():
     # Because of pydrive And pydrive v2 Api
     
     #Folder Id Of Teamdrive
-    TEAMDRIVE_FOLDER_ID = "14pKscOnitu1bEuAP0U_dSQHR8OSCFSb1"
+    TEAMDRIVE_FOLDER_ID = "1NkwpC-Vl6gVhAJr9slLlsmI366Y6jVYt"
     
     # Id of Team drive 
     TEAMDRIVE_ID = "0AFZDpqYBoQWfUk9PVA"
